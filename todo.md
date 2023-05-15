@@ -1,4 +1,3 @@
 - skill tree connections
 - game win screen
 - final boss arena
-- final boss
