@@ -1,3 +1,4 @@
 - skill tree connections
 - game win screen
 - final boss arena
+- make final boss enemy ai better
