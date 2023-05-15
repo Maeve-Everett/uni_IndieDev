@@ -1,0 +1,7 @@
+- launch ability
+- launch distance upgrade
+- skill tree connections
+- game over screen
+- game win screen
+- final boss arena
+- final boss
