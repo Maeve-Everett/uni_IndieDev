@@ -1,3 +1,2 @@
-- skill tree connections
 - final boss arena
 - make final boss enemy ai better
